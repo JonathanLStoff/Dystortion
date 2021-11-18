@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="JwtP85" name="Dystortion" projectType="audioplug" useAppConfig="1"
+              displaySplashScreen="1" jucerFormatVersion="1" addUsingNamespaceToJuceHeader="1"
+              pluginFormats="buildAAX,buildAU,buildStandalone,buildVST3" pluginName="Dystortion"
+              pluginManufacturer="Stoff Audio LLC" cppLanguageStandard="17"
+              companyName="Stoff Audio LLC" companyEmail="Stoffaudio@gmail.com"
+              companyWebsite="linktr.ee/stoffaudio" pluginDesc="Distortion Plugin"
+              pluginAAXCategory="64" pluginRTASCategory="64" version="1.0.1">
+  <MAINGROUP id="nEnuu1" name="Dystortion">
+    <FILE id="SeJaOH" name="Gain knobnoshad-01.png" compile="0" resource="1"
+          file="Gain knobnoshad-01.png"/>
+    <FILE id="v7D2Xi" name="pedal back 1@0.2x-100.jpg" compile="0" resource="1"
+          file="pedal back 1@0.2x-100.jpg"/>
+    <FILE id="FYo5nK" name="Gain knoblayerslight.png" compile="0" resource="1"
+          file="Gain knoblayerslight.png"/>
+    <FILE id="K2kgDQ" name="donatebuthover.png" compile="0" resource="1"
+          file="donatebuthover.png"/>
+    <FILE id="fFbp3i" name="Gain knoblayersshadow2.png" compile="0" resource="1"
+          file="Gain knoblayersshadow2.png"/>
+    <FILE id="NOJxac" name="donatebut.png" compile="0" resource="1" file="donatebut.png"/>
+    <GROUP id="{6D27EC65-FB99-15A6-4724-887211665F96}" name="Source">
+      <FILE id="FNujdV" name="SALookAndFeel.cpp" compile="1" resource="0"
+            file="Source/SALookAndFeel.cpp"/>
+      <FILE id="ksNE5K" name="SALookAndFeel.h" compile="0" resource="0" file="Source/SALookAndFeel.h"/>
+      <FILE id="chs4DM" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp" xcodeResource="0"/>
+      <FILE id="wLThTN" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h" xcodeResource="0"/>
+      <FILE id="ZUqAzf" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp" xcodeResource="0"/>
+      <FILE id="X48mkN" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"
+            xcodeResource="0"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="Dystortion"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="Dystortion"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_core" path="../../modules"/>
+        <MODULEPATH id="juce_audio_basics" path="../../modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../modules"/>
+        <MODULEPATH id="juce_events" path="../../modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../modules"/>
+        <MODULEPATH id="juce_graphics" path="../../modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../modules"/>
+        <MODULEPATH id="juce_opengl" path="../../modules"/>
+        <MODULEPATH id="juce_dsp" path="../../modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="0"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_opengl" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <OSX/>
+  </LIVE_SETTINGS>
+</JUCERPROJECT>
