@@ -1,64 +1,142 @@
-![](.//media/image1.jpg){width="5.850734908136483in"
-height="1.7040977690288714in"}
+<html>
 
-**Welcome to my github repository for Dystortion Audio Plugin.**
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Arial",sans-serif;}
+.MsoChpDefault
+	{font-family:"Arial",sans-serif;}
+.MsoPapDefault
+	{line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
 
-**[[Donate]{.underline}](https://www.paypal.com/donate?hosted_button_id=9ELH753DDE98Y)
-\| [[Website]{.underline}](https://linktr.ee/stoffaudio) \|
-[[Email]{.underline}](mailto:stoffaudio@gmail.com)**
+</head>
 
+<body lang=EN-US style='word-wrap:break-word; display: block; margin-left: auto; margin-right: auto; text-aline: center;'>
+
+<div class=WordSection1>
+<img src=".//media/image1.jpg" alt="im1" width="585" height="175" style="display: block; margin-left: auto; margin-right: auto;"/>
+
+
+<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN
+style='font-size:12.0pt;line-height:115%;font-family:"Georgia",serif;
+color:#7E664E'>Welcome to my github repository for Dystortion Audio Plugin.
+
+</span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN><a
+href="https://www.paypal.com/donate?hosted_button_id=9ELH753DDE98Y"><b><span
+style='font-size:15.0pt;line-height:115%;font-family:"Georgia",serif;
+color:#7E664E'>Donate</span></b></a></span><b><span lang=EN style='font-size:
+15.0pt;line-height:115%;font-family:"Georgia",serif;color:#7E664E'>    |       </span></b><span
+lang=EN><a href="https://linktr.ee/stoffaudio"><b><span style='font-size:15.0pt;
+line-height:115%;font-family:"Georgia",serif;color:#7E664E'>Website</span></b></a></span><b><span
+lang=EN style='font-size:15.0pt;line-height:115%;font-family:"Georgia",serif;
+color:#7E664E'>      |      </span></b><span lang=EN><a
+href="mailto:stoffaudio@gmail.com"><b><span style='font-size:15.0pt;line-height:
+115%;font-family:"Georgia",serif;color:#7E664E'>Email
+
+</span></b></a></span></p>
+<p class=MsoNormal align=center style='text-align:center; margin-left:10%; margin-right:10%'><b><span lang=EN
+style='font-size:12.0pt;line-height:115%;font-family:"Georgia",serif'>
 This is a DAW plugin that took me a long time to craft but the time and
 effort was worth it. In this description I will be going over the long
 journey it took for me to go from an Audio Engineer, with no
 understanding of C++ or compiling, to creating this plugin.
 
-**[Installation Instructions]{.underline}**
 
-**[Mac (OSX):]{.underline}**
+
+
+
+
+<p class=MsoNormal align=center style='text-align:center'><b><u><span lang=EN
+style='font-size:14.0pt;line-height:115%;font-family:"Georgia",serif;
+color:#7E664E'>Installation Instructions</span></u></b></p>
+
+<div class=MsoNormal align=center style='text-align:center'><span lang=EN>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<p class=MsoNormal><b><u><span lang=EN style='font-size:14.0pt;line-height:
+115%;font-family:"Georgia",serif;color:#7E664E'>Mac (OSX):</span></u></b><span
+lang=EN style='font-size:14.0pt;line-height:115%;font-family:"Georgia",serif;
+color:#7E664E'> </span></p>
 
 -   Download the Package from the releases on the right.
 
 -   Open the file and you will get a warning like this:
 
-![](.//media/image5.png){width="1.7552088801399826in"
-height="2.0826727909011375in"}
+<img src=".//media/image5.png" alt="im1" width="300" height="380" style="display: block; margin-left: 10%; margin-right: auto;"/>
 
 -   Open "System Preferences" and select "Open anyway"
 
-> ![](.//media/image9.png){width="4.880208880139983in"
-> height="4.291586832895888in"}
+<img src=".//media/image9.png" alt="im1" width="488" height="429" style="display: block; margin-left: 10%; margin-right: auto;"/>
+
 
 -   Then you just install normally:
+<img src=".//media/image7.png" alt="im1" width="388" height="329" style="display: block; margin-left: 10%; margin-right: auto;"/><img src=".//media/image8.png" alt="im1" width="388" height="329" style="display: block; margin-left: 10%; margin-right: auto;"/>
 
--   It will install AAX in "Macintosh HD/Library/Application
-    > Support/Avid/Audio/Plug-Ins",![](.//media/image7.png){width="3.3110837707786525in"
-    > height="2.348824365704287in"}![](.//media/image8.png){width="3.2902023184601923in"
-    > height="2.346379046369204in"}
 
-> install VST3 in "Macintosh HD/Users/\[YOUR
-> USER\]/Library/Audio/Plug-Ins/VST3",
->
-> And install AU in "Macintosh HD/Users/\[YOUR
-> USER\]/Library/Audio/Plug-Ins/Components"
+-   It will install AAX in 
+    >"Macintosh HD/Library/Application Support/Avid/Audio/Plug-Ins"
+-   install VST3 in 
+    > "Macintosh HD/Users/\[YOUR USER\]/Library/Audio/Plug-Ins/VST3"
+-   install AU in 
+    > "Macintosh HD/Users/\[YOUR USER\]/Library/Audio/Plug-Ins/Components"
 
-**[Windows:]{.underline}**
+<p class=MsoNormal><b><u><span lang=EN style='font-size:14.0pt;line-height:
+115%;font-family:"Georgia",serif;color:#7E664E'>Windows:</span></u></b><span
+lang=EN style='font-size:14.0pt;line-height:115%;font-family:"Georgia",serif;
+color:#7E664E'> </span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in'><span lang=EN
+style='font-size:12.0pt;line-height:115%;font-family:"Georgia",serif;
+color:#1C212B'>●<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN style='font-size:12.0pt;line-height:115%;
+font-family:"Georgia",serif;color:#1C212B'>Download the Package from the
+releases on the right.</span></p>
 
 -   Download the Package from the releases on the right.
 
 -   Open the file and you will get a warning like this:
 
-> ![](.//media/image3.png){width="2.994792213473316in"
-> height="2.7438615485564304in"}
+<img src=".//media/image3.png" alt="im1" width="350" height="380" style="display: block; margin-left: 10%; margin-right: auto;"/>
 
--   Click "[More info]{.underline}", then click "Run anyway":
+- Click “<u>More info</u>”, then click “Run anyway”:
 
-![](.//media/image6.png){width="2.995718503937008in"
-height="2.7864588801399823in"}
+<img src=".//media/image6.png" alt="im1" width="350" height="380" style="display: block; margin-left: 10%; margin-right: auto;"/>
 
--   It will install AAX in "C:\\Program Files\\Common
-    > Files\\Avid\\Audio\\Plug-Ins"
-
-> And install VST3 in "C:\\Program Files\\Common Files\\VST3"
+-   It will install AAX in 
+    > "C:\\Program Files\\Common Files\\Avid\\Audio\\Plug-Ins"
+-   And install VST3 in 
+    > "C:\\Program Files\\Common Files\\VST3"
 
 I need to preface this with sharing that I do have ADHD, making my
 learning technique very different to the average joe. I can't learn
@@ -66,8 +144,7 @@ things by myself unless I am doing. For example: I would never just
 start reading a book on C++ and doing sample projects to learn how to
 use it. I want to start making the program I want and look up elements
 to add along the
-way.![](.//media/image10.png){width="2.7239588801399823in"
-height="4.099978127734033in"}
+way.<img src=".//media/image10.png" alt="im1" width="272" height="409" style="display: block; margin-left: 10%; margin-right: auto;"/>
 
 I started this journey by asking some of my old Music Tech teachers from
 University what I should start off doing. I had some understanding of
@@ -101,8 +178,7 @@ pretty well and I was able to use CMake tools to configure my project
 after making sure it was using the workspace folder. This make no sense
 because you can have multiple parallel workspace folders but I told it
 where to find "CMakeLists.txt".
-![](.//media/image4.png){width="2.0781255468066493in"
-height="0.7959481627296588in"}
+<img src=".//media/image4.png" alt="im1" width="207" height="79" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 If you plan on building AAX just know it is a giant pain. First I would
 go and register as a Dev through AVID. After that you should email AVID
@@ -121,7 +197,7 @@ name later. You can export the Key to a .p12 file for signing on windows
 There are lots of Juce tutorials so I won't go over that except for the
 issues I ran into. First thing is if any variable crosses from your
 Audio processor to Editor or vise versa, MAKE IT ATOMIC.
-std::atomic\<type> fixed a bunch of issues for me. Another issue I ran
+"std::atomic\<type\>" fixed a bunch of issues for me. Another issue I ran
 into was that there are hard limits to memory which if you don't know
 what you're doing, you will hit. I wanted a reverb effect so I saved the
 buffer into audioblocks. I thought it could handle 100 of these but as
@@ -130,8 +206,6 @@ saving 51200 samples in memory at any given time. Which also overflowed
 the sample rate, which I have no idea how that also messed things up. I
 ended up saving one sample per buffer and using it later to manipulate
 the distortion for each block.
-![](.//media/image11.jpg){width="2.0989588801399823in"
-height="2.0989588801399823in"}
 
 Do yourself a favor and get a DSP or trigonometry book that can help you
 with graphing equations. I had to do a bunch of trial and error because
@@ -150,7 +224,7 @@ use the correct image for what size you need.
 
 For testing make sure you use DBG(var or "string") as std::cout wont
 always work. I also found this great tool by Tracktion:
-[[https://github.com/Tracktion/pluginval]{.underline}](https://github.com/Tracktion/pluginval).
+<u>https://github.com/Tracktion/pluginval</u>.
 This tool tests your plugin to make sure it will work on all different
 sample rates. When exporting on MAC, if you have M1, make sure your
 target is only x86/64 so that you don't get error like "Unknown
@@ -179,9 +253,7 @@ of things you need if you want to create plugins using JUCE too:
 
 -   The platform you want to build for. (Windows, Mac, or Linux)
 
--   Avid dev account (Takes time to get approved, it helps if you have a
-    > brand or company with a company email or else they probably wont
-    > give you these things) email: devauth\@avid.com
+-   Avid dev account (Takes time to get approved, it helps if you have a brand or company with a company email or else they probably wont give you these things) email: devauth\@avid.com
 
     -   Pace license software
 
@@ -192,7 +264,8 @@ of things you need if you want to create plugins using JUCE too:
     -   Build the Avid sdk library for each platform
 
 -   Plugin tester:
-    > [[https://github.com/Tracktion/pluginval]{.underline}](https://github.com/Tracktion/pluginval)
+
+- [https://github.com/Tracktion/pluginval](https://github.com/Tracktion/pluginval)
 
 -   An understanding of Github (Commits and stuff)
 
@@ -204,12 +277,14 @@ of things you need if you want to create plugins using JUCE too:
 
 I made this plugin and guide for free and would love it if you could
 help out by donating:
-[[https://www.paypal.com/donate?hosted_button_id=9ELH753DDE98Y]{.underline}](https://www.paypal.com/donate?hosted_button_id=9ELH753DDE98Y)
+[https://www.paypal.com/donate?hosted_button_id=9ELH753DDE98Y](https://www.paypal.com/donate?hosted_button_id=9ELH753DDE98Y)
 
 Review it on these websites so more people will come get this free
 plugin:
 
 TBD
+
+
 
 **Jonathan Stoff**
 
@@ -217,9 +292,16 @@ TBD
 
 Email: Stoffaudio\@gmail.com
 
-![](.//media/image2.jpg){width="1.734375546806649in"
-height="1.734375546806649in"}
+<img src=".//media/image2.jpg" alt="im1" width="100" height="100" style="display: block; margin-left: 3%; margin-right: auto;"/>
+
+
 
 [Website](https://jonathanstoff.wixsite.com/stoffaudio) \|
 [Music](https://open.spotify.com/artist/6g5lKBY6AaHlECDPOqbmiM?si=YPCEy3QJQ2mQlYHuNb6yLw)
 \| [Other Links](https://linktr.ee/stoffaudio)
+&nbsp;</span></b></p>
+</div>
+
+</body>
+
+</html>
