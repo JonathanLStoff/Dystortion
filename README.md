@@ -4,7 +4,7 @@
 <meta http-equiv=Content-Type content="text/html; charset=utf-8">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
 <style>
-<!--
+
  /* Font Definitions */
  @font-face
 	{font-family:"Cambria Math";
@@ -32,7 +32,7 @@ div.WordSection1
 	{margin-bottom:0in;}
 ul
 	{margin-bottom:0in;}
--->
+
 </style>
 
 </head>
@@ -287,7 +287,29 @@ plugin:
 KRK
 Plugin boutique
 
-
+Download links:
+<head>
+ <style>
+  a:link,a:visited {
+   color: #7E664E;
+   text-decoration: none;
+   target-new: none;
+  }
+  a:hover {
+   color: #33E9FF;
+   text-decoration: underline;
+   target-new: none;
+  }
+ </style>
+</head>
+<body>
+  <a href="https://github.com/StoffAudioLLC/Dystortion/releases/download/v1.0.1/Dystortion.Installer.Win.msi">Windows Download</a>
+  <p>
+  
+  </p>
+  <a href="https://github.com/StoffAudioLLC/Dystortion/releases/download/v1.0.1/Dystortion.Mac.pkg">Mac Download</a>
+</body>
+<p>&nbsp;</p>
 
 **Jonathan Stoff**
 
