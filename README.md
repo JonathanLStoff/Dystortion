@@ -3,9 +3,8 @@
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=utf-8">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
-
-<!--
 <style>
+<!--
  /* Font Definitions */
  @font-face
 	{font-family:"Cambria Math";
@@ -33,9 +32,8 @@ div.WordSection1
 	{margin-bottom:0in;}
 ul
 	{margin-bottom:0in;}
-
-</style>
 -->
+</style>
 </head>
 
 <body lang=EN-US style='word-wrap:break-word; display: block; margin-left: auto; margin-right: auto; text-aline: center;'>
