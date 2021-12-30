@@ -279,10 +279,13 @@ I made this plugin and guide for free and would love it if you could
 help out by donating:
 [https://www.paypal.com/donate?hosted_button_id=9ELH753DDE98Y](https://www.paypal.com/donate?hosted_button_id=9ELH753DDE98Y)
 
+LICENSE: GNU V.3
+
 Review it on these websites so more people will come get this free
 plugin:
 
-TBD
+KRK
+Plugin boutique
 
 
 
